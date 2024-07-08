@@ -1,4 +1,5 @@
-#Conversor de temperaturas
-temp_c = float(input('Informe a temperatura em ºC: '))
-temp_f = ((temp_c * 9) / 5) + 32
-print(f'A temperatura de {temp_c}ºC corresponde a {temp_f}ºF!')
+#Aluguel de carros
+dias = int(input('Quantos dias alugados? '))
+km = float(input('Quantos Km rodados? '))
+total = (dias * 60) + (km * 0.15)
+print(f'O total a pagar é de R${total:.2f}')
