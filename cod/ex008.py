@@ -1,3 +1,4 @@
+#Convertendo metros para centímetros e milímetros.
 metros = float(input('Insira a quantidade de metros: '))
 centimetros = metros * 100
 milimetros = metros * 1000
