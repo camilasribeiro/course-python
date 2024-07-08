@@ -1,3 +1,4 @@
+#Dobro, triplo e raiz quadrada de um número.
 num = int(input('Insira um número: '))
 dobro = num * 2
 triplo = num * 3
