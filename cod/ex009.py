@@ -1,3 +1,4 @@
+#Tabuada
 num = int(input('Calcular a tabuada de qual número? '))
 print(f'{num}x1 = {num*1}')
 print(f'{num}x2 = {num*2}')
