@@ -1,3 +1,4 @@
+#Calculando a quantidade de tinta usada para pintar uma parede de acordo com sua área.
 largura = int(input('Qual é a largura da parede? '))
 altura = int(input('Qual é a altura da parede? '))
 area = largura * altura
